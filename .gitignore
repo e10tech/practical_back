@@ -5,6 +5,7 @@ __pycache__/
 *.pyd
 .env
 backend/.env
+backend_env/
 DigiCertGlobalRootCA.crt.pem
 
 # Node
