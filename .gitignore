@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+backend/.env
+DigiCertGlobalRootCA.crt.pem
+
+# Node
+node_modules/
+.next/
+.env.local
+
+# その他
+*.log
+.DS_Store
+.vscode/
+
+# 証明書ファイル
+*.crt
+*.pem
+*.key
