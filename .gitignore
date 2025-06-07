@@ -18,6 +18,4 @@ node_modules/
 .vscode/
 
 # 証明書ファイル
-*.crt
-*.pem
 *.key
